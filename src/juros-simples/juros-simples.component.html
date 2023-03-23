@@ -1,0 +1,12 @@
+<h1>Calculadora Juros</h1>
+<div>Valor:</div>
+<input type="number" step="0.01" [(ngModel)]="value" />
+<div>Juros:</div>
+<input type="number" step="0.01" [(ngModel)]="rate" />
+<div>Mês</div>
+<input type="number" [(ngModel)]="months" /><br />
+
+<button (click)="calcular()">Calcular</button>
+<h3>R$ {{calcular() | currency }}</h3>
+
+<hr />
