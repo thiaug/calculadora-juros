@@ -1,3 +1,3 @@
-# calculadora-juros-angular
+# Calculadora Juros Simples
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-tq73cc)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/calculadora-juros
